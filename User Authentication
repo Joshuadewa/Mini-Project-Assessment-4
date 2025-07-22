@@ -1,0 +1,20 @@
+Backend (Express.js + MongoDB):
+
+Register & Login: /api/auth/register, /api/auth/login
+
+Password Hashing: Use bcryptjs
+
+JWT Auth: Generate token on login, verify with middleware
+
+
+Frontend (React):
+
+Forms for login/register
+
+Auth context or Redux for token storage
+
+Protected routes using React Router
+
+
+
+---
