@@ -1,0 +1,44 @@
+Frontend (React):
+
+Use Tailwind CSS or Material UI for design
+
+Axios for API calls
+
+React Query or SWR for data fetching
+
+Responsive with media queries or utility classes
+
+
+Backend (Express.js):
+
+Routes: /api/auth, /api/user, /api/movies, /api/reviews
+
+Middlewares: authMiddleware, errorHandler
+
+Use dotenv, cors, helmet for config and security
+
+
+Database (MongoDB):
+
+Collections:
+
+users: profile, email, favorites, watchlist
+
+reviews: userId, movieId, rating, comment
+
+(Optional) movies: if caching TMDB data
+
+
+
+Movie API:
+
+Use TMDB API with:
+
+API Key in .env
+
+Endpoints like /search/movie, /discover/movie, /movie/{id}
+
+
+
+
+---
