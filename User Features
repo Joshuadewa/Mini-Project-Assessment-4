@@ -1,0 +1,37 @@
+Backend:
+
+Favorites & Watchlist:
+
+POST /api/user/favorites
+
+POST /api/user/watchlist
+
+
+Ratings & Reviews:
+
+POST /api/reviews
+
+Allow users to rate and leave a comment
+
+
+User Profile:
+
+GET /api/user/profile
+
+PUT /api/user/profile
+
+
+
+Frontend:
+
+Allow adding/removing favorites
+
+Star rating input
+
+Review text input
+
+User dashboard to manage profile, watchlist, ratings
+
+
+
+---
