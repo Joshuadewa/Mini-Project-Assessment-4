@@ -1,0 +1,27 @@
+Frontend:
+
+Search UI: Input with filters (genre, year, rating)
+
+Movie Cards: Display posters with info
+
+Detail Page: Shows movie details, cast, trailer, etc.
+
+
+Backend:
+
+Integrate TMDB API for:
+
+Search
+
+Filtering
+
+Details
+
+Recommendations (use /movie/{movie_id}/recommendations)
+
+
+Optional: Cache popular movies using MongoDB or Redis
+
+
+
+---
